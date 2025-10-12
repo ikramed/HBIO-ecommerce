@@ -1,3 +1,4 @@
-echo "node_modules/
-dist/
-package-lock.json" >> .gitignore
+node_modules
+dist
+firebase-debug.log
+package-lock.json
